@@ -1,0 +1,17 @@
+body {
+  background-color: antiquewhite;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.div-1 {
+  width: 30vw;
+  height: 30vh;
+  background-color: white;
+  margin: 30px auto;
+  padding-top: 40px;
+}
